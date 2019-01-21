@@ -182,7 +182,8 @@
     "network": "mainnet",
     "chain_id": 2018,
     "network_id": 1
-  },  {
+  },
+  {
     "name": "Teslafunds",
     "short_name": "TSF",
     "chain": "TSF",
